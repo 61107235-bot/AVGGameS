@@ -396,9 +396,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61107235/Scenarios/61107235.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 51
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 2dfffccb192cf3443a7f374109518a5d, type: 3}
   - rows:
